@@ -2,10 +2,11 @@
   "features": {
     "auditLog": false,
     "cdnAssets": false,
-    "darkMode": false
+    "darkMode": false,
+    "rateLimitV2": true
   },
   "region": "us-west-2",
   "service": "api",
   "timeoutMs": 300,
-  "version": "1.0.8"
+  "version": "1.1.0"
 }
