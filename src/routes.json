@@ -1,0 +1,2 @@
+{ "routes": [ {"path": "/v1/ingest", "method": "POST", "retries": 3, "timeoutMs": 800},
+              {"path": "/v1/health", "method": "GET"} ] }
