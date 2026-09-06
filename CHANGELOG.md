@@ -53,3 +53,4 @@
 - 1.8.0: release: api 1.8.0
 - 1.8.1: chore(deps): bump http client
 - 1.8.2: feat(ingest): batch inserts for /v1/ingest
+- 1.8.3: fix(ingest): retry on 429 with jitter
