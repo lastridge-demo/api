@@ -1,5 +1,6 @@
 {
   "features": {
+    "annualPricing": false,
     "auditLog": false,
     "cdnAssets": false,
     "darkMode": false,
@@ -8,5 +9,5 @@
   "region": "us-west-2",
   "service": "api",
   "timeoutMs": 300,
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
