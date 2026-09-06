@@ -49,3 +49,4 @@
 - 1.7.2: feat(ingest): batch inserts for /v1/ingest
 - 1.7.3: fix(ingest): retry on 429 with jitter
 - 1.7.4: fix(ingest): retry on 429 with jitter (take 2)
+- 1.7.5: perf(routes): cache route table at boot
