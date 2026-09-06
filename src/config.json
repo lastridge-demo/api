@@ -1,6 +1,8 @@
 {
-  "service": "api",
-  "version": "1.0.0",
+  "features": {
+    "darkMode": false
+  },
   "region": "us-west-2",
-  "features": {}
+  "service": "api",
+  "version": "1.0.1"
 }
