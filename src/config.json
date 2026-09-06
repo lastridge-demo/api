@@ -4,11 +4,12 @@
     "auditLog": false,
     "cdnAssets": false,
     "darkMode": false,
-    "rateLimitV2": true
+    "rateLimitV2": true,
+    "sessionRestore": true
   },
   "region": "us-west-2",
   "replicas": 3,
   "service": "api",
   "timeoutMs": 300,
-  "version": "1.2.0"
+  "version": "1.2.1"
 }
