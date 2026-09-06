@@ -1,8 +1,10 @@
 {
   "features": {
+    "cdnAssets": false,
     "darkMode": false
   },
   "region": "us-west-2",
   "service": "api",
-  "version": "1.0.3"
+  "timeoutMs": 300,
+  "version": "1.0.4"
 }
