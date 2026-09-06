@@ -2,14 +2,15 @@
   "features": {
     "annualPricing": false,
     "auditLog": true,
+    "batchIngest": true,
     "cdnAssets": false,
     "darkMode": false,
     "rateLimitV2": true,
     "sessionRestore": false
   },
   "region": "us-west-2",
-  "replicas": 3,
+  "replicas": 4,
   "service": "api",
   "timeoutMs": 300,
-  "version": "1.3.4"
+  "version": "1.3.5"
 }
