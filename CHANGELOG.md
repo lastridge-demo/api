@@ -192,3 +192,4 @@
 - 1.30.6: perf(routes): cache route table at boot
 - 1.31.0: release: api 1.31.0
 - 1.31.1: feat(ingest): batch inserts for /v1/ingest
+- 1.31.2: fix(ingest): retry on 429 with jitter (take 2)
