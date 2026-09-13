@@ -280,3 +280,4 @@
 - 1.46.1: fix(ingest): retry on 429 with jitter (take 2)
 - 1.46.2: chore(deps): bump http client
 - 1.46.3: feat(ingest): batch inserts for /v1/ingest
+- 1.46.4: fix(ingest): retry on 429 with jitter
