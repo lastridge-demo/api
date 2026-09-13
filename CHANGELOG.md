@@ -284,3 +284,4 @@
 - 1.46.5: fix(ingest): retry on 429 with jitter (take 2)
 - 1.46.6: perf(routes): cache route table at boot
 - 1.47.0: release: api 1.47.0
+- 1.47.1: feat(ingest): batch inserts for /v1/ingest
