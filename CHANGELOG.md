@@ -496,3 +496,4 @@
 - 1.82.0: release: api 1.82.0
 - 1.82.1: feat(ingest): batch inserts for /v1/ingest
 - 1.82.2: fix(ingest): retry on 429 with jitter
+- 1.82.3: fix(ingest): retry on 429 with jitter (take 2)
