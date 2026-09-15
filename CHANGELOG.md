@@ -516,3 +516,4 @@
 - 1.84.5: perf(routes): cache route table at boot
 - 1.85.0: release: api 1.85.0
 - 1.85.1: chore(deps): bump http client
+- 1.85.2: feat(ingest): batch inserts for /v1/ingest
