@@ -618,3 +618,4 @@
 - 1.101.0: release: api 1.101.0
 - 1.101.1: chore(deps): bump http client
 - 1.101.2: feat(ingest): batch inserts for /v1/ingest
+- 1.101.3: fix(ingest): retry on 429 with jitter
