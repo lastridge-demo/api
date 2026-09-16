@@ -679,3 +679,4 @@
 - 1.111.1: fix(ingest): retry on 429 with jitter (take 2)
 - 1.111.2: fix(ingest): retry on 429 with jitter
 - 1.111.3: fix(ingest): retry on 429 with jitter (take 2)
+- 1.111.4: feat(ingest): batch inserts for /v1/ingest
