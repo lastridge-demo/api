@@ -728,3 +728,4 @@
 - 1.115.16: feat(ingest): batch inserts for /v1/ingest
 - 1.116.0: release: api 1.116.0
 - 1.116.1: fix(ingest): retry on 429 with jitter
+- 1.116.2: fix(ingest): retry on 429 with jitter (take 2)
