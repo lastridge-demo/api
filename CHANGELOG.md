@@ -791,3 +791,4 @@
 - 1.129.0: release: api 1.129.0
 - 1.129.1: chore(deps): bump http client
 - 1.129.2: chore(deps): bump http client
+- 1.129.3: feat(ingest): batch inserts for /v1/ingest
