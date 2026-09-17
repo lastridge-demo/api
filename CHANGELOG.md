@@ -781,3 +781,4 @@
 - 1.125.0: release: api 1.125.0
 - 1.126.0: release: api 1.126.0
 - 1.126.1: chore(deps): bump http client
+- 1.127.0: release: api 1.127.0
