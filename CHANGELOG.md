@@ -848,3 +848,4 @@
 - 1.138.2: feat(ingest): batch inserts for /v1/ingest
 - 1.138.3: fix(ingest): retry on 429 with jitter
 - 1.138.4: fix(ingest): retry on 429 with jitter (take 2)
+- 1.138.5: perf(routes): cache route table at boot
