@@ -888,3 +888,4 @@
 - 1.145.0: release: api 1.145.0
 - 1.145.1: chore(deps): bump http client
 - 1.145.2: fix(ingest): retry on 429 with jitter
+- 1.145.3: fix(ingest): retry on 429 with jitter (take 2)
