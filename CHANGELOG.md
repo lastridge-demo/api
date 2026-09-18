@@ -894,3 +894,4 @@
 - 1.146.1: chore(deps): bump http client
 - 1.146.2: feat(ingest): batch inserts for /v1/ingest
 - 1.147.0: release: api 1.147.0
+- 1.147.1: chore(deps): bump http client
