@@ -920,3 +920,4 @@
 - 1.150.3: fix(ingest): retry on 429 with jitter
 - 1.150.4: fix(ingest): retry on 429 with jitter (take 2)
 - 1.150.5: chore(deps): bump http client
+- 1.150.6: feat(ingest): batch inserts for /v1/ingest
