@@ -1133,3 +1133,4 @@
 - 1.187.0: release: api 1.187.0
 - 1.187.1: chore(deps): bump http client
 - 1.187.2: chore(deps): bump http client
+- 1.187.3: feat(ingest): batch inserts for /v1/ingest
