@@ -1025,3 +1025,4 @@
 - 1.168.0: release: api 1.168.0
 - 1.168.1: chore(deps): bump http client
 - 1.168.2: feat(ingest): batch inserts for /v1/ingest
+- 1.168.3: fix(ingest): retry on 429 with jitter
