@@ -1127,3 +1127,4 @@
 - 1.185.3: perf(routes): cache route table at boot
 - 1.185.4: chore(deps): bump http client
 - 1.185.5: fix(ingest): retry on 429 with jitter
+- 1.185.6: fix(ingest): retry on 429 with jitter (take 2)
