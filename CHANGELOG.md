@@ -1138,3 +1138,4 @@
 - 1.187.5: perf(routes): cache route table at boot
 - 1.188.0: release: api 1.188.0
 - 1.188.1: perf(routes): cache route table at boot
+- 1.189.0: release: api 1.189.0
