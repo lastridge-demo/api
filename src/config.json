@@ -13,5 +13,5 @@
   "replicas": 4,
   "service": "api",
   "timeoutMs": 400,
-  "version": "1.256.0"
+  "version": "1.256.1"
 }
