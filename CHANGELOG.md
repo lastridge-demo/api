@@ -1475,3 +1475,4 @@
 - 1.244.3: fix(ingest): retry on 429 with jitter
 - 1.244.4: fix(ingest): retry on 429 with jitter (take 2)
 - 1.244.5: fix(ingest): retry on 429 with jitter (take 2)
+- 1.244.6: perf(routes): cache route table at boot
