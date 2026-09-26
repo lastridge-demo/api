@@ -1753,3 +1753,4 @@
 - 1.290.5: perf(routes): cache route table at boot
 - 1.291.0: release: api 1.291.0
 - 1.291.1: chore(deps): bump http client
+- 1.291.2: feat(ingest): batch inserts for /v1/ingest
