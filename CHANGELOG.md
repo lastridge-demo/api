@@ -1759,3 +1759,4 @@
 - 1.291.5: perf(routes): cache route table at boot
 - 1.292.0: release: api 1.292.0
 - 1.293.0: release: api 1.293.0
+- 1.293.1: chore(deps): bump http client
