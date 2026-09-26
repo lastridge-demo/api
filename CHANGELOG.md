@@ -1768,3 +1768,4 @@
 - 1.294.0: release: api 1.294.0
 - 1.294.1: feat(ingest): batch inserts for /v1/ingest
 - 1.294.2: fix(ingest): retry on 429 with jitter
+- 1.294.3: fix(ingest): retry on 429 with jitter (take 2)
