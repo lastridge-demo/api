@@ -1775,3 +1775,4 @@
 - 1.295.2: feat(ingest): batch inserts for /v1/ingest
 - 1.295.3: feat(ingest): batch inserts for /v1/ingest
 - 1.295.4: fix(ingest): retry on 429 with jitter
+- 1.295.5: fix(ingest): retry on 429 with jitter (take 2)
