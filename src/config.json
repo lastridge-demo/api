@@ -12,6 +12,6 @@
   "region": "us-west-2",
   "replicas": 4,
   "service": "api",
-  "timeoutMs": 800,
-  "version": "1.302.5"
+  "timeoutMs": 300,
+  "version": "1.303.0"
 }
