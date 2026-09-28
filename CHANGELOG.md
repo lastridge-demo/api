@@ -1939,3 +1939,4 @@
 - 1.324.1: chore(deps): bump http client
 - 1.324.2: feat(ingest): batch inserts for /v1/ingest
 - 1.324.3: fix(ingest): retry on 429 with jitter
+- 1.324.4: fix(ingest): retry on 429 with jitter (take 2)
