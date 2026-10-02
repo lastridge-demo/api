@@ -2316,3 +2316,4 @@
 - 1.387.0: release: api 1.387.0
 - 1.387.1: chore(deps): bump http client
 - 1.387.2: feat(ingest): batch inserts for /v1/ingest
+- 1.387.3: fix(ingest): retry on 429 with jitter
