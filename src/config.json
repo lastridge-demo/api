@@ -1,6 +1,6 @@
 {
   "features": {
-    "annualPricing": false,
+    "annualPricing": true,
     "auditLog": false,
     "batchIngest": false,
     "cdnAssets": false,
@@ -13,5 +13,5 @@
   "replicas": 6,
   "service": "api",
   "timeoutMs": 500,
-  "version": "1.406.5"
+  "version": "1.407.0"
 }
