@@ -2612,3 +2612,4 @@
 - 1.437.0: release: api 1.437.0
 - 1.438.0: release: api 1.438.0
 - 1.438.1: chore(deps): bump http client
+- 1.438.2: feat(ingest): batch inserts for /v1/ingest
