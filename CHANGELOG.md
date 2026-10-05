@@ -2719,3 +2719,4 @@
 - 1.456.0: release: api 1.456.0
 - 1.457.0: release: api 1.457.0
 - 1.457.1: chore(deps): bump http client
+- 1.457.2: feat(ingest): batch inserts for /v1/ingest
