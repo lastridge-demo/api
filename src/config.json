@@ -10,8 +10,8 @@
     "taxPreview": true
   },
   "region": "us-west-2",
-  "replicas": 6,
+  "replicas": 5,
   "service": "api",
-  "timeoutMs": 900,
-  "version": "1.462.1"
+  "timeoutMs": 1200,
+  "version": "1.462.2"
 }
