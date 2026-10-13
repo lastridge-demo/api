@@ -3590,3 +3590,4 @@
 - 1.602.0: release: api 1.602.0
 - 1.602.1: chore(deps): bump http client
 - 1.602.2: feat(ingest): batch inserts for /v1/ingest
+- 1.602.3: fix(ingest): retry on 429 with jitter
