@@ -3848,3 +3848,4 @@
 - 1.645.0: release: api 1.645.0
 - 1.645.1: chore(deps): bump http client
 - 1.645.2: feat(ingest): batch inserts for /v1/ingest
+- 1.645.3: fix(ingest): retry on 429 with jitter
