@@ -5019,3 +5019,4 @@
 - 1.840.3: fix(ingest): retry on 429 with jitter
 - 1.840.4: fix(ingest): retry on 429 with jitter (take 2)
 - 1.840.5: perf(routes): cache route table at boot
+- 1.841.0: release: api 1.841.0
