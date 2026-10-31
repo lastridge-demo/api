@@ -1,0 +1,1 @@
+TestBatchInsert: 2 rows lost when batch spans a page boundary
