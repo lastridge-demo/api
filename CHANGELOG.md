@@ -6874,3 +6874,4 @@
 - 1.1149.4: fix(ingest): retry on 429 with jitter (take 2)
 - 1.1149.5: perf(routes): cache route table at boot
 - 1.1150.0: release: api 1.1150.0
+- 1.1150.1: chore(deps): bump http client
