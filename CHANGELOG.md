@@ -6949,3 +6949,4 @@
 - 1.1162.1: chore(deps): bump http client
 - 1.1162.2: feat(ingest): batch inserts for /v1/ingest
 - 1.1162.3: fix(ingest): retry on 429 with jitter
+- 1.1162.4: fix(ingest): retry on 429 with jitter (take 2)
