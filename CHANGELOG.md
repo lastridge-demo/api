@@ -7822,3 +7822,4 @@
 - 1.1307.5: perf(routes): cache route table at boot
 - 1.1307.6: chore(deps): bump http client
 - 1.1307.7: feat(ingest): batch inserts for /v1/ingest
+- 1.1307.8: fix(ingest): retry on 429 with jitter
